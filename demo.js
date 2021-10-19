@@ -47,7 +47,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -70,7 +70,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -93,7 +93,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -116,7 +116,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -139,7 +139,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -162,7 +162,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -185,7 +185,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -208,7 +208,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -231,7 +231,7 @@ export default function Gap() {
               component="img"
               alt="green iguana"
               height="140"
-              image="/static/images/cards/contemplative-reptile.jpg"
+              image="https://source.unsplash.com/random"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
