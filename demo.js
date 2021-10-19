@@ -45,7 +45,7 @@ export default function Gap() {
           <Card>
             <CardMedia
               component="img"
-              alt="green iguana"
+              alt="Primera Obra de Arte"
               height="140"
               image="https://source.unsplash.com/random"
             />
@@ -68,7 +68,7 @@ export default function Gap() {
           <Card>
             <CardMedia
               component="img"
-              alt="green iguana"
+              alt="Segunda Obra de Arte"
               height="140"
               image="https://source.unsplash.com/random"
             />
@@ -91,7 +91,7 @@ export default function Gap() {
           <Card>
             <CardMedia
               component="img"
-              alt="green iguana"
+              alt="Tercera Obra de Arte"
               height="140"
               image="https://source.unsplash.com/random"
             />
@@ -114,7 +114,7 @@ export default function Gap() {
           <Card>
             <CardMedia
               component="img"
-              alt="green iguana"
+              alt="Cuarta Obra de Arte"
               height="140"
               image="https://source.unsplash.com/random"
             />
@@ -137,7 +137,7 @@ export default function Gap() {
           <Card>
             <CardMedia
               component="img"
-              alt="green iguana"
+              alt="Quinta Obra de Arte"
               height="140"
               image="https://source.unsplash.com/random"
             />
@@ -160,7 +160,7 @@ export default function Gap() {
           <Card>
             <CardMedia
               component="img"
-              alt="green iguana"
+              alt="Sexta Obra de Arte"
               height="140"
               image="https://source.unsplash.com/random"
             />
